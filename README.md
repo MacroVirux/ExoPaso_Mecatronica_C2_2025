@@ -86,5 +86,23 @@ manteniendo un balance entre **rigidez, ligereza y ergonomía** para el paciente
 📂 Para más detalles revisa las carpetas del repositorio 👉 `Documentacion/`, `Hardware/`, `Software/`.
 
 ---
+---
+
+## 🙏 Mención Especial  
+
+Queremos agradecer de manera muy especial al proyecto **ProtoScaner3D**,  
+el cual fue una **referencia y guía fundamental** en el desarrollo de **ExsoPaso**.  
+
+Gracias a su transmisión de conocimiento y al permiso para el uso de diferentes  
+**software y herramientas de prototipado 3D**, pudimos avanzar en áreas críticas como:  
+
+- Escaneo 3D de alta precisión.  
+- Modelado y preparación de piezas anatómicas personalizadas.  
+- Acceso a espacios y equipos especializados que facilitaron el diseño y la validación.  
+
+💡 Sin el apoyo de **ProtoScaner3D**, este proyecto no habría contado con las bases sólidas  
+que hoy nos permiten presentar un prototipo funcional y con impacto social.  
+
+---
 
 
